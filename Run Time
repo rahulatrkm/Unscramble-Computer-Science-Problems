@@ -1,0 +1,21 @@
+Run Time Analysis of the solutions:
+
+For Task 0:
+Run Time Complexity - O(1)
+Space Complexity - O(1)
+
+For Task 1:
+Run Time Complexity - O(n)
+Space Complexity - O(1)
+
+For Task 2:
+Run Time Complexity - O(n*log(n))
+Space Complexity - O(n)
+
+For Task 3:
+Run Time Complexity - O(n*log(n))
+Space Complexity - O(n)
+
+For Task 4:
+Run Time Complexity - O(n)
+Space Complexity - O(1)
